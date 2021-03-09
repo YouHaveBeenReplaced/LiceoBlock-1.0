@@ -1,3 +1,5 @@
+**This is not to create a copy of the server it is only for knowing what plugins where used that is why I deleted some files and folders**
+
 # LiceoBlock-1.0
 First version of LB for the ones who want to fork it or analyze how does it work!
 
